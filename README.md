@@ -7,3 +7,6 @@ The aim of this annotated notebook is to showcase the widely-used quantum fourie
 4. Run full circuit on Aer (circuit simulator)
 5. Compare results to an actual quantum computer
 ## Results
+![](images/download.png)
+![](images/download%20(1).png)
+Real quantum computer (left), quantum circuit simulator (right) 😂 Quantum error correction has a long way to go...
